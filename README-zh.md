@@ -28,7 +28,7 @@
 打开终端(linux/mac)或者cmd(windows)
 
 ```bash
-git clone git@github.com:gyk001/viabtc_exchange_server_docker.git
+git clone git@github.com:qyvlik/viabtc_exchange_server_docker.git
 cd viabtc_exchange_server_docker
 docker-compose up
 ```
@@ -44,7 +44,7 @@ curl  http://127.0.0.1:18080/ -d '{"method": "market.list", "params": [], "id": 
 
 提示: 如果你没有安装git，也可以使用下面的步骤运行
 
-* 手工下载文件 https://codeload.github.com/gyk001/viabtc_exchange_server_docker/zip/master
+* 手工下载文件 https://codeload.github.com/qyvlik/viabtc_exchange_server_docker/zip/master
 * 解压下载的压缩包 viabtc_exchange_server_docker-master.zip
 * 命令行进入解压后的目录
 * 执行`docker-compose up`
