@@ -27,7 +27,7 @@ This repo do this things automatic:
 Open a terminal(linux/mac) or cmd(windows)
 
 ```bash
-git clone git@github.com:gyk001/viabtc_exchange_server_docker.git
+git clone git@github.com:qyvlik/viabtc_exchange_server_docker.git
 cd viabtc_exchange_server_docker
 docker-compose up
 ```
@@ -43,7 +43,7 @@ All is done, just play it!
 
 Tips: if you don't install git, you can startup it like this
 
-* Download https://codeload.github.com/gyk001/viabtc_exchange_server_docker/zip/master
+* Download https://codeload.github.com/qyvlik/viabtc_exchange_server_docker/zip/master
 * Extract viabtc_exchange_server_docker-master.zip
 * cd into the target directory
 * run `docker-compose up`
